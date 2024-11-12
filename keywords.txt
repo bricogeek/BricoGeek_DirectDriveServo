@@ -1,0 +1,16 @@
+# Datatypes (KEYWORD1)
+BricoGeek_DirectDriveServo	KEYWORD1
+
+# Methods and Functions (KEYWORD2)
+begin	KEYWORD2
+setMode	KEYWORD2
+setSpeed	KEYWORD2
+setPosition	KEYWORD2
+brake	KEYWORD2
+setID	KEYWORD2
+getID	KEYWORD2
+getMode	KEYWORD2
+getSpeed	KEYWORD2
+getPosition	KEYWORD2
+getTemperature	KEYWORD2
+getError	KEYWORD2
