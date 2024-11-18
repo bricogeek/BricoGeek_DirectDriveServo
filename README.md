@@ -1,5 +1,7 @@
 # BricoGeek_DirectDriveServo
 
+** WARNING: Still under development (not working yet!) **
+
 Simple library for Direct-Drive Servo Motor (UART)
 
 Got one here:
